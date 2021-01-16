@@ -1,3 +1,3 @@
 # save-monkey-game
 It is a small game using python 
-https://user-images.githubusercontent.com/53082123/104806229-0445f200-57fc-11eb-8660-1e305d2187da.mp4
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/53082123/104806367-ef1d9300-57fc-11eb-8da1-67df06662501.gif)
